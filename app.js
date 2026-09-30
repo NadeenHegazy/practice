@@ -1,5 +1,6 @@
 const user = {
-  name: "Nadeen Hegazy",
+  name: "Nadeen Ahmed",
+  email: "nadeen@example.com",
   role: "Senior Frontend Developer",
   company: "TAG",
 };
