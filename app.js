@@ -12,3 +12,7 @@ console.log(greetUser(user));
 function getUserEmail(user) {
   return user.email;
 }
+
+function getUserName(user) {
+  return user.name;
+}
