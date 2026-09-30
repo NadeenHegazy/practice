@@ -1,5 +1,3 @@
-const { use } = require("react");
-
 const user = {
   name: "Nadeen",
   role: "FrontEnd Developer",
@@ -7,6 +5,6 @@ const user = {
 };
 
 function greetUser(user) {
-  return `Welcome ${user.name}!`;
+  return `Hello ${user.name}, welcome to your dashboard!`;
 }
 console.log(greetUser(user));
