@@ -1,5 +1,5 @@
 const user = {
-  name: "Nadeen",
+  name: "Nadeen Hegazy",
   role: "Senior Frontend Developer",
   company: "TAG",
 };
